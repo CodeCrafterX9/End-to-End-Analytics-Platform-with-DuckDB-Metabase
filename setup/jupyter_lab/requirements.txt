@@ -1,0 +1,7 @@
+pandas
+requests
+boto3
+jupyterlab
+numpy
+matplotlib
+seaborn
