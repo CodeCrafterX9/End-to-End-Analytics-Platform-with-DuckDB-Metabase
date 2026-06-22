@@ -14,3 +14,5 @@ services:
       --NotebookApp.token='' 
       --NotebookApp.password=''
       --notebook-dir=/workspace/project
+    env_file:
+      - .env
